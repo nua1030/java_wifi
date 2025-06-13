@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "프로젝트/와이파이 연결 과정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "와이파이 연결 과정"
             }
           }
         ]
@@ -170,11 +170,16 @@
   },
   "active": "ea0ee9a5d02db248",
   "lastOpenFiles": [
-    "프로그램 순서도.png",
-    "README.md",
+    "와이파이 연결 과정3.png",
+    "스크린샷 2025-06-13 162618.png",
+    "와이파이 연결 과정2.png",
+    "프로젝트/와이파이 연결 과정.md",
+    "와이파이 연결 과정1.png",
     "프로젝트/프로젝트 구체화.md",
+    "프로그램 설명",
+    "README.md",
+    "프로그램 순서도.png",
     "java_jena.pdf",
-    "Untitled",
     "프로젝트"
   ]
 }
